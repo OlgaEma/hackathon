@@ -1,5 +1,4 @@
-// style header
-@import 'header.scss';
+
 
 body {
     margin: 0;
@@ -8,12 +7,10 @@ body {
     font-family: ‘Inconsolata’, monospace;
 }
 
-<<<<<<< HEAD
-@import '/scss/home.scss';
-=======
 @import 'home.scss';
->>>>>>> main
-
-
+// style Coffee page
+@import 'coffee.scss';
 // Style for About Page
 @import 'about.scss';
+// menu page
+@import 'manu.scss';
